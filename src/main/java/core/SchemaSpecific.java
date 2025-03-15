@@ -16,7 +16,7 @@ public class SchemaSpecific {
         user1.setName("Rams");
         user1.setFavoriteColor("orange");
 
-        User user2 = new User("Ben", 235, "Yellow");
+        User user2 = new User("Bens", 235, "Yellow");
 
         // Construct via builder
         User user3 = User.newBuilder()
