@@ -14,7 +14,7 @@ public class SchemaSpecific {
     public static void main(String[] args) throws IOException {
         User user1 = new User();
         user1.setName("Rams");
-        user1.setFavoriteColor("yellow");
+        user1.setFavoriteColor("orange");
 
         User user2 = new User("Ben", 235, "Yellow");
 
